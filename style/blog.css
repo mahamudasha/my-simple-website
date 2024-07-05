@@ -2,3 +2,6 @@ div{
 background-color: brown;
 padding: 10px; margin-bottom: 5px;
 }
+li{
+    font-size: large; color: aqua;
+}
